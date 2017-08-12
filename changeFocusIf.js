@@ -1,5 +1,5 @@
 // Description
-// change-focus="expression"
+// change-focus-if="expression"
 // if expression is true focus keybord input on closest input - also seeking in children elemnts
 (function () {
     'use strict';
